@@ -23,6 +23,8 @@ Para cada caso de teste, imprima a quantidade de vogais alienígenas corresponde
 | kwy                                         | 3                |
 | the quick brown fox jumps over the lazy dog |
 
+## Resposta
+
 ```javascript
 let vogais = gets();
 let frase = gets();

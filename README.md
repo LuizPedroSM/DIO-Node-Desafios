@@ -2,6 +2,8 @@
 
 > Desafios do BootCamp 'Node.js Web Developer' da [DIO]
 
+1 - 4 ✔️
+
 1. Introdução a Programação com JavaScript
 
    1. [Visita na Feira](1-Introdução_a_Programação_com_JavaScript/1-Visita_na_Feira/desafio1.md)
@@ -32,22 +34,22 @@
    4. [Pedra, Papel, Tesoura, Lagarto e Spock](4-Introdução_a_Busca_e_Substituição_em_JavaScript/4-Pedra,Papel,Tesoura,Lagarto_e_Spock/desafio4.md)
    5. [Atalhos para o Weblogger Brasil](4-Introdução_a_Busca_e_Substituição_em_JavaScript/5-Atalhos_para_o_Weblogger_Brasil/desafio5.md)
 
-5. Solução de Problemas com JavaScript
+5. Solução de Problemas com JavaScript ❌
 
-   1. [Contagem repetida de números](5-Solução_de_Problemas_com_JavaScript/1-Contagem_repetida_de_números/desafio1.md)
-   2. [Vogais Extraterrestres](5-Solução_de_Problemas_com_JavaScript/2-Vogais_Extraterrestres/desafio2.md)
-   3. [Melhor amigo do Pablo](5-Solução_de_Problemas_com_JavaScript/3-Melhor_amigo_do_Pablo/desafio3.md)
-   4. [Entrevista embaraçosa](5-Solução_de_Problemas_com_JavaScript/4-Entrevista_embaraçosa/desafio4.md)
-   5. [Conjuntos bons ou ruins?](5-Solução_de_Problemas_com_JavaScript/5-Conjuntos_bons_ou_ruins/desafio5.md)
-   6. [Produto e divisão](5-Solução_de_Problemas_com_JavaScript/6-Produto_e_divisão/desafio6.md)
+   1. [Contagem repetida de números](5-Solução_de_Problemas_com_JavaScript/1-Contagem_repetida_de_números/desafio1.md)✔️
+   2. [Vogais Extraterrestres](5-Solução_de_Problemas_com_JavaScript/2-Vogais_Extraterrestres/desafio2.md)✔️
+   3. [Melhor amigo do Pablo](5-Solução_de_Problemas_com_JavaScript/3-Melhor_amigo_do_Pablo/desafio3.md)✔️
+   4. [Entrevista embaraçosa](5-Solução_de_Problemas_com_JavaScript/4-Entrevista_embaraçosa/desafio4.md) [tentativa x3]
+   5. [Conjuntos bons ou ruins?](5-Solução_de_Problemas_com_JavaScript/5-Conjuntos_bons_ou_ruins/desafio5.md)✔️
+   6. [Produto e divisão](5-Solução_de_Problemas_com_JavaScript/6-Produto_e_divisão/desafio6.md) [tentativa]
    7. [Barras de ouro](5-Solução_de_Problemas_com_JavaScript/7-Barras_de_ouro/desafio7.md)
 
-6. Resolvendo Algoritmos com JavaScript
+6. Resolvendo Algoritmos com JavaScript ❌
 
-   1. [Coração das cartas](6-Resolvendo_Algoritmos_com_JavaScript/1-Coração_das_cartas/desafio1.md)
-   2. [Abreviando posts do blog](6-Resolvendo_Algoritmos_com_JavaScript/2-Abreviando_posts_do_blog/desafio2.md)
-   3. [Combinação de strings](6-Resolvendo_Algoritmos_com_JavaScript/3-Combinação_de_strings/desafio3.md)
-   4. [Hash Mágico](6-Resolvendo_Algoritmos_com_JavaScript/4-Hash_Mágico/desafio4.md)
-   5. [O tabuleiro secreto](6-Resolvendo_Algoritmos_com_JavaScript/5-O_tabuleiro_secreto/desafio5.md)
+   1. [Coração das cartas](6-Resolvendo_Algoritmos_com_JavaScript/1-Coração_das_cartas/desafio1.md) [tentativa]
+   2. [Abreviando posts do blog](6-Resolvendo_Algoritmos_com_JavaScript/2-Abreviando_posts_do_blog/desafio2.md)❌
+   3. [Combinação de strings](6-Resolvendo_Algoritmos_com_JavaScript/3-Combinação_de_strings/desafio3.md)❌
+   4. [Hash Mágico](6-Resolvendo_Algoritmos_com_JavaScript/4-Hash_Mágico/desafio4.md)❌
+   5. [O tabuleiro secreto](6-Resolvendo_Algoritmos_com_JavaScript/5-O_tabuleiro_secreto/desafio5.md)❌
 
 [dio]: https://digitalinnovation.one/
